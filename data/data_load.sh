@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
+echo "This shell must be executed in your path which is '~/kunwoo-kim-aka/shell_script'"
 echo "What is DB's IP?"
-echo "1 : insert into Dev Database"
-echo "2 : insert into Service Database"
+echo "1 : insert into Dev Database(localhost)"
+echo "2 : insert into Service Database(localhost)"
 echo "3 : drop collection of Dev Database"
 echo "4 : drop collection of Service Database"
 
@@ -12,8 +13,8 @@ echo "Your choice :$choice"
 
 if [ "$choice" -eq 1  -o "$choice" -eq 3 ]
 then
-    ip='10.110.240.13'
-#    ip='localhost'
+#    ip='10.110.240.13'
+    ip='localhost'
 elif [ "$choice" -eq 2 -o "$choice" -eq 4 ]
 then
     ip='10.110.240.205'
