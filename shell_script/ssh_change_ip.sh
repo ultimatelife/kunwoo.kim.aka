@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 cd kunwoo-kim-aka/shell_script
-python change_ip.py
+node dp_ip_change.js
