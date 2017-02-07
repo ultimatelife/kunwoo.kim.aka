@@ -6,8 +6,8 @@ echo "Project Name : kunwoo-kim-aka"
 #SCP File Transfer
 while read ssh_user ssh_ip;
 do
-    echo "scp($(dirname "$PWD") to ${ssh_user}@${ssh_ip}:/home/ubuntu1"
-    scp -prq $(dirname "$PWD") "${ssh_user}@${ssh_ip}:/home/ubuntu1" &
+    echo "scp($(dirname "$PWD") to ${ssh_user}@${ssh_ip}:/home1/${ssh_user}"
+    scp -prq $(dirname "$PWD") "${ssh_user}@${ssh_ip}:/home1/${ssh_user}" &
 done < server_list
 
 echo "deploy end"

@@ -3794,8 +3794,8 @@
       <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Documents/kunwoo-kim-aka/shell_script/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            <state relative-caret-position="153">
+              <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -3822,10 +3822,10 @@
         <option value="$USER_HOME$/Documents/kunwoo-kim-aka/shell_script/change_ip.py" />
         <option value="$USER_HOME$/Documents/kunwoo-kim-aka/public/datatable/js/data_table_app.js" />
         <option value="$USER_HOME$/Documents/kunwoo-kim-aka/views/products.ejs" />
-        <option value="$USER_HOME$/Documents/kunwoo-kim-aka/shell_script/deploy.sh" />
         <option value="$USER_HOME$/Documents/kunwoo-kim-aka/data/drop_collection.js" />
         <option value="$USER_HOME$/Documents/kunwoo-kim-aka/data/data_load.sh" />
         <option value="$USER_HOME$/Documents/kunwoo-kim-aka/shell_script/build.sh" />
+        <option value="$USER_HOME$/Documents/kunwoo-kim-aka/shell_script/deploy.sh" />
       </list>
     </option>
   </component>
@@ -3937,12 +3937,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486431747325</updated>
-      <workItem from="1486431748519" duration="6026000" />
+      <workItem from="1486431748519" duration="6146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6026000" />
+    <option name="totallyTimeSpent" value="6146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -4105,8 +4105,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Documents/kunwoo-kim-aka/shell_script/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        <state relative-caret-position="153">
+          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
           <folding />
         </state>
       </provider>
